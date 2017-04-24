@@ -1,0 +1,31 @@
+2014:
+
+grep -r '13 wks' *
+Rudimental – Free	160
+Katy Perry – Unconditionally	216
+Ella Eyre – Deeper	148
+OneRepublic – If I Lose Myself	207
+
+
+2015:
+1. Sia – Elastic Heart	378
+2. Everything Everything – Distant Past	333
+3. Fall Out Boy – Uma Thurman	313
+4. Rae Morris – Under The Shadows	288
+5. Alessia Cara – Here	277
+6. Maroon 5 – Sugar	266
+7. Echosmith – Cool Kids	264
+8. Saint Raymond – Fall At Your Feet	248
+9. Fall Out Boy – Irresistible	230
+10. Sia – Big Girls Cry	205
+11. Monogram – Romance	202
+12. Demi Lovato – Cool For The Summer	199
+13. Imagine Dragons – I Bet My Life	195
+14. Saint Raymond – Come Back To You	193
+15. Everything Everything – Regret	182
+16. Foals – Mountain At My Gates	181
+17. Muse – Mercy	180
+18. Imagine Dragons – Warriors	177
+19. SOAK – Sea Creatures	173
+20. Marina & The Diamonds – Happy	170
+
