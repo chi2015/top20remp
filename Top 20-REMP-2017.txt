@@ -772,7 +772,7 @@
 11 (8) The Killers - The Man (7 wks)
 12 (10) Muse - Dig Down (10 wks)
 13 (16) The XX - Say Something Loving (21 wks)
-14 (20) Echosmith - Goodbye
+14 (20) Echosmith - Goodbye (2 wks)
 15 (15) Pixey - Birthday (16 wks)
 16 (14) Tom Prior - Sundays (12 wks)
 17 (*) Nothing But Thieves - Sorry
@@ -782,10 +782,26 @@
 
 27/8/2017
 
-(*) Noah Kahan - Fine
-(*) Sara Hartman - Dance With a Ghost
-(*) Search Party Animal - Enemies
-(*) Superfood - Unstoppable
+1 (1) Coldplay - All I Can Think About Is You (9 wks)
+2 (6) Everything Everything - Can't Do (8 wks)
+3 (3) Pixey - Hometown (3 wks)
+4 (2) Betsy - Little White Lies (11 wks)
+5 (4) Oh Wonder - High On Humans (6 wks)
+6 (5) The XX - I Dare You (9 wks)
+7 (8) Avante Black - Make A Mess (9 wks)
+8 (9) Vance Joy - Lay It On Me (5 wks)
+9 (14) Echosmith - Goodbye (3 wks)
+10 (7) Tom Speight - My My My (7 wks)
+11 (10) Dean Lewis - Let Go (12 wks)
+12 (*) Noah Kahan - Fine
+13 (*) Sara Hartman - Dance With a Ghost
+14 (17) Nothing But Thieves - Sorry (2 wks)
+15 (*) Search Party Animal - Enemies
+16 (*) Superfood - Unstoppable
+17 (11) The Killers - The Man (8 wks)
+18 (20) The Big Moon - Pull The Other One (2 wks)
+19 (19) Low Island - This Kind Of Love (3 wks)
+20 (12) Muse - Dig Down (11 wks)
 
 3/9/2017
 
@@ -797,6 +813,10 @@
 17/9/2017
 
 (*) Kele Okereke feat. Olly Alexander - Grounds For Resentment
+
+24/9/2017
+
+(*) Everything Everything - Desire
 
 
 
