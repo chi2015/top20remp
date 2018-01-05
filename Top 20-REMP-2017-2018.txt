@@ -1102,7 +1102,7 @@
 19 (18) MUNA - In My Way (8 wks)
 20 (19) Vance Joy - Lay It On Me (18 wks)
 
-2/12/2017
+3/12/2017
 
 1 (3) Wild Beasts - Punk Drunk & Trembling (6 wks)
 2 (1) Betsy - You Won't Love Me (12 wks)
@@ -1125,7 +1125,7 @@
 19 (*) Goat Girl - Cracker Drool
 20 (16) The Killers - Run For Cover (12 wks)
 
-9/12/2017
+10/12/2017
 
 1 (6) Tom Chaplin - Under A Million Lights (4 wks)
 2 (5) Mikky Ekko - Light The Way (4 wks)
@@ -1148,7 +1148,7 @@
 19 (17) James TW - For You (5 wks)
 20 (*) Bastille - World Gone Mad
 
-16/12/2017
+17/12/2017
 
 1 (1) Tom Chaplin - Under A Million Lights (5 wks)
 2 (2) Mikky Ekko - Light The Way (5 wks)
@@ -1171,7 +1171,7 @@
 19 (*) Jerry Williams - Grab Life
 20 (18) Nothing But Thieves - Sorry (18 wks)
 
-23/12/2017
+24/12/2017
 
 1 (1) Tom Chaplin - Under A Million Lights (6 wks)
 2 (2) Mikky Ekko - Light The Way (6 wks)
@@ -1194,11 +1194,30 @@
 19 (16) Superfood - Unstoppable (18 wks)
 20 (20) Nothing But Thieves - Sorry (19 wks)
 
-6/1/2018
+7/1/2018
 
-(*) Sam Fender - Start Again
+1 (2) Mikky Ekko - Light The Way (7 wks)
+2 (6) Saint Raymond - We Are Fire (4 wks)
+3 (7) Goat Girl - Cracker Drool (5 wks)
+4 (4) Everything Everything - Night Of The Long Knives (5 wks)
+5 (5) Vance Joy - Like Gold (5 wks)
+6 (3) Wild Beasts - Punk Drunk & Trembling (10 wks)
+7 (1) Tom Chaplin - Under A Million Lights (7 wks)
+8 (11) Ten Fe - Single, No Return (3 wks)
+9 (13) Jerry Williams - Grab Life (3 wks)
+10 (10) Kele Okereke - Do U Right (6 wks)
+11 (9) Betsy - You Won't Love Me (16 wks)
+12 (12) Noah Kahan - Hurt Somebody (10 wks)
+13 (8) The 1975 - Milk (9 wks)
+14 (15) Bastille - World Gone Mad (4 wks)
+15 (14) The XX - Dangerous (16 wks)
+16 (*) Sam Fender - Start Again
+17 (20) Nothing But Thieves - Sorry (20 wks)
+18 (16) Everything Everything - Desire (15 wks)
+19 (18) Walk The Moon - One Foot (11 wks)
+20 (17) Kele Okereke feat. Olly Alexander - Grounds For Resentment (16 wks)
 
-13/1/2018
+14/1/2018
 
 (*) Betsy - Heavy Head
 (*) Geowulf - Hideaway
@@ -1206,6 +1225,11 @@
 (*) Moon Taxi - Good As Gold
 (*) Sunflower Bean - I Was A Fool
 (*) Nothing But Thieves - Particles
+
+21/1/2018
+
+(*) The Vaccines - I Can't Quit
+(*) Maisie Peters - Place We Were Made
 
 
 
