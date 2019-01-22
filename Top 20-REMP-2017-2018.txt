@@ -1497,7 +1497,7 @@
 
 1 (4) Sinai - Race Horse (3 wks)
 2 (2) Rex Orange County - Loving Is Easy (12 wks)
-3 (5) Sam Fender - Friday Fighting (5 wks)
+3 (5) Sam Fender - Friday Fighting (4 wks)
 4 (1) Mikky Ekko - Not The One (8 wks)
 5 (6) Everything Everything - Breadwinner (4 wks)
 6 (3) FRENSHIP - LOVE Somebody (7 wks)
@@ -1522,7 +1522,7 @@
 2 (2) Rex Orange County - Loving Is Easy (13 wks)
 3 (11) Shawn Mendes - In My Blood (2 wks)
 4 (5) Everything Everything - Breadwinner (5 wks)
-5 (3) Sam Fender - Friday Fighting (6 wks)
+5 (3) Sam Fender - Friday Fighting (5 wks)
 6 (14) Snow Patrol - Don't Give In (2 wks)
 7 (7) Vance Joy - We're Going Home (7 wks)
 8 (6) FRENSHIP - LOVE Somebody (8 wks)
@@ -1548,7 +1548,7 @@
 5 (10) P!nk - Whatever You Want (2 wks)
 6 (6) Snow Patrol - Don't Give In (3 wks)
 7 (7) Vance Joy - We're Going Home (8 wks)
-8 (5) Sam Fender - Friday Fighting (7 wks)
+8 (5) Sam Fender - Friday Fighting (6 wks)
 9 (13) Echosmith - Over My Head (4 wks)
 10 (9) Ten Fe - Single, No Return (18 wks)
 11 (8) FRENSHIP - LOVE Somebody (9 wks)
@@ -1573,7 +1573,7 @@
 7 (7) Vance Joy - We're Going Home (9 wks)
 8 (*) Friendly Fires - Love Like Waves
 9 (9) Echosmith - Over My Head (5 wks)
-10 (8) Sam Fender - Friday Fighting (8 wks)
+10 (8) Sam Fender - Friday Fighting (7 wks)
 11 (10) Ten Fe - Single, No Return (19 wks)
 12 (12) Saint Raymond - We Are Fire (20 wks)
 13 (13) Moon Taxi - Good As Gold (16 wks)
@@ -1596,7 +1596,7 @@
 7 (5) Snow Patrol - Don't Give In (5 wks)
 8 (9) Echosmith - Over My Head (6 wks)
 9 (7) Vance Joy - We're Going Home (10 wks)
-10 (10) Sam Fender - Friday Fighting (9 wks)
+10 (10) Sam Fender - Friday Fighting (8 wks)
 11 (6) Rex Orange County - Loving Is Easy (16 wks)
 12 (11) Ten Fe - Single, No Return (20 wks)
 13 (12) Saint Raymond - We Are Fire (21 wks)
@@ -1619,7 +1619,7 @@
 7 (6) Everything Everything - Breadwinner (9 wks)
 8 (8) Echosmith - Over My Head (7 wks)
 9 (9) Vance Joy - We're Going Home (11 wks)
-10 (10) Sam Fender - Friday Fighting (10 wks)
+10 (10) Sam Fender - Friday Fighting (9 wks)
 11 (18) Florence & The Machine - Sky Full Of Song (2 wks)
 12 (15) Franz Ferdinand - Glimpse Of Love (3 wks)
 13 (12) Ten Fe - Single, No Return (21 wks)
@@ -1643,7 +1643,7 @@
 8 (11) Florence & The Machine - Sky Full Of Song (3 wks)
 9 (8) Echosmith - Over My Head (8 wks)
 10 (12) Franz Ferdinand - Glimpse Of Love (4 wks)
-11 (10) Sam Fender - Friday Fighting (11 wks)
+11 (10) Sam Fender - Friday Fighting (10 wks)
 12 (9) Vance Joy - We're Going Home (12 wks)
 13 (13) Ten Fe - Single, No Return (22 wks)
 14 (14) Saint Raymond - We Are Fire (23 wks)
@@ -1673,7 +1673,7 @@
 15 (13) Ten Fe - Single, No Return (23 wks)
 16 (14) Saint Raymond - We Are Fire (24 wks)
 17 (15) Moon Taxi - Good As Gold (20 wks)
-18 (11) Sam Fender - Friday Fighting (12 wks)
+18 (11) Sam Fender - Friday Fighting (11 wks)
 19 (18) Betsy - Heavy Head (20 wks)
 20 (19) FRENSHIP - GOOD MORNING, Goodbye (2 wks)
 
@@ -1698,7 +1698,7 @@
 17 (16) Saint Raymond - We Are Fire (25 wks)
 18 (17) Moon Taxi - Good As Gold (21 wks)
 19 (*) Zuzu - Beauty Queen
-20 (18) Sam Fender - Friday Fighting (13 wks)
+20 (18) Sam Fender - Friday Fighting (12 wks)
 
 10/6/2018
 
@@ -1743,7 +1743,7 @@
 16 (*) The 1975 - Give Yourself A Try
 17 (re) FRENSHIP - GOOD MORNING, Goodbye (3 wks)
 18 (15) Everything Everything - Breadwinner (14 wks)
-19 (re) Sam Fender - Friday Fighting (14 wks)
+19 (re) Sam Fender - Friday Fighting (13 wks)
 20 (14) Vance Joy - We're Going Home (16 wks)
 
 24/6/2018
