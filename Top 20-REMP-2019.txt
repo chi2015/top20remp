@@ -312,7 +312,7 @@
 11 (11) Rex Orange County - New House (6 wks)
 12 (16) Emeli Sande - Sparrow (2 wks)
 13 (15) Lewis Capaldi - Someone You Loved (10 wks)
-14 (*) James Lewis - Stay Awake
+14 (*) Dean Lewis - Stay Awake
 15 (13) Bring Me The Horizon - Medicine (12 wks)
 16 (14) The 1975 - It's Not Living (If It's Not With You) (22 wks)
 17 (19) Foals - Exits (7 wks)
@@ -329,7 +329,7 @@
 5 (2) Sam Fender - Poundshop Kardashians (13 wks)
 6 (6) Tom Speight - My Name (8 wks)
 7 (8) Clean Cut Kid - I Don’t Like You But I Love You (6 wks)
-8 (14) James Lewis - Stay Awake (2 wks)
+8 (14) Dean Lewis - Stay Awake (2 wks)
 9 (7) The Vaccines - All My Friends Are Falling In Love (13 wks)
 10 (9) James TW - You & Me (11 wks)
 11 (*) APRE - Falling Apart Like
@@ -348,7 +348,7 @@
 1 (1) Mumford & Sons - Beloved (4 wks)
 2 (2) James Bay feat. Julia Michaels - Peer Pressure (7 wks)
 3 (4) Sam Fender - Hypersonic Missiles (5 wks)
-4 (8) James Lewis - Stay Awake (3 wks)
+4 (8) Dean Lewis - Stay Awake (3 wks)
 5 (3) Vampire Weekend - Harmony Hall (11 wks)
 6 (11) APRE - Falling Apart Like (2 wks)
 7 (6) Tom Speight - My Name (9 wks)
@@ -369,7 +369,7 @@
 21/4/2019
 
 1 (6) APRE - Falling Apart Like (3 wks)
-2 (4) James Lewis - Stay Awake (4 wks)
+2 (4) Dean Lewis - Stay Awake (4 wks)
 3 (1) Mumford & Sons - Beloved (5 wks)
 4 (*) Vampire Weekend - This Life
 5 (3) Sam Fender - Hypersonic Missiles (6 wks)
@@ -392,7 +392,7 @@
 28/4/2019
 
 1 (1) APRE - Falling Apart Like (4 wks)
-2 (2) James Lewis - Stay Awake (5 wks)
+2 (2) Dean Lewis - Stay Awake (5 wks)
 3 (4) Vampire Weekend - This Life (2 wks)
 4 (5) Sam Fender - Hypersonic Missiles (7 wks)
 5 (3) Mumford & Sons - Beloved (6 wks)
@@ -416,7 +416,7 @@
 
 1 (*) Bastille - Doom Days
 2 (1) APRE - Falling Apart Like (5 wks)
-3 (2) James Lewis - Stay Awake (6 wks)
+3 (2) Dean Lewis - Stay Awake (6 wks)
 4 (*) LANY feat. Julia Michaels - Okay
 5 (3) Vampire Weekend - This Life (3 wks)
 6 (*) SOAK - Maybe
@@ -439,7 +439,7 @@
 
 1 (1) Bastille - Doom Days (2 wks)
 2 (4) LANY feat. Julia Michaels - Okay (2 wks)
-3 (3) James Lewis - Stay Awake (7 wks)
+3 (3) Dean Lewis - Stay Awake (7 wks)
 4 (5) Vampire Weekend - This Life (4 wks)
 5 (6) SOAK - Maybe (2 wks)
 6 (11) James TW - Incredible (2 wks)
@@ -460,9 +460,26 @@
 
 19/5/2019
 
-(*) James Bay - Bad
-(*) The Amazons - End Of Wonder
-(*) Bring Me The Horizon - Mother Tongue
+1 (1) Bastille - Doom Days (3 wks)
+2 (2) LANY feat. Julia Michaels - Okay (3 wks)
+3 (3) Dean Lewis - Stay Awake (8 wks)
+4 (5) SOAK - Maybe (3 wks)
+5 (13) Lewis Capaldi - Hold Me While You Wait (2 wks)
+6 (8) Sam Fender - Hypersonic Missiles (10 wks)
+7 (4) Vampire Weekend - This Life (5 wks)
+8 (6) James TW - Incredible (3 wks)
+9 (9) Mumford & Sons - Beloved (9 wks)
+10 (7) APRE - Falling Apart Like (7 wks)
+11 (10) Vampire Weekend - Harmony Hall (16 wks)
+12 (11) James TW - You & Me (17 wks)
+13 (12) Catfish and the Battlement - 2all (7 wks)
+14 (19) Tom Speight - Into The Night (2 wks)
+15 (16) Lewis Capaldi - Someone You Loved (17 wks)
+16 (18) Bear's Den - Fuel on the Fire (4 wks)
+17 (*) James Bay - Bad
+18 (15) James Bay feat. Julia Michaels - Peer Pressure (12 wks)
+19 (*) The Amazons - End Of Wonder
+20 (*) Bring Me The Horizon - Mother Tongue
 
 26/5/2019
 
