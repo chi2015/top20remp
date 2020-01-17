@@ -1232,7 +1232,7 @@
 11 (11) Lewis Capaldi - Before You Go (6 wks)
 12 (13) HAIM - Now I’m In It (9 wks)
 13 (16) Ten Fe - Candidate (3 wks)
-14 (15) Jake Bugg - Kiss Like The Sun (7 wks)
+14 (12) Bear’s Den - The Star Of Bethnal Green (3 wks)
 15 (10) Tame Impala - It Might Be Time (9 wks)
 16 (14) Blossoms - The Keeper (6 wks)
 17 (15) Jake Bugg - Kiss Like The Sun (7 wks)
@@ -1242,5 +1242,27 @@
 
 19/1/2020
 
-(*) Easy Life - Dead Celebrities
-(*) Circa Waves - Move To San Francisco
+1 (1) Coldplay - Everyday Life (2 wks)
+2 (4) Bastille - Admit Defeat (5 wks)
+3 (5) Bombay Bicycle Club - Everything Else Has Gone Wrong (6 wks)
+4 (2) Bad Sounds - Breathe (6 wks)
+5 (6) Rex Orange County - Face To Face (8 wks)
+6 (3) Allie X - Regulars (9 wks)
+7 (8) APRE - You Always Get It Wrong (9 wks)
+8 (11) Lewis Capaldi - Before You Go (7 wks)
+9 (7) Coldplay - Orphans (11 wks)
+10 (12) HAIM - Now I’m In It (10 wks)
+11 (14) Bear’s Den - The Star Of Bethnal Green (4 wks)
+12 (9) The Script - Something Unreal (7 wks)
+13 (13) Ten Fe - Candidate (3 wks)
+14 (10) The 1975 - Frail State Of Mind (11 wks)
+15 (*) Circa Waves - Move To San Francisco
+16 (16) Blossoms - The Keeper (7 wks)
+17 (19) The Big Moon - Take A Piece (2 wks)
+18 (*) Easy Life - Dead Celebrities
+19 (17) Jake Bugg - Kiss Like The Sun (8 wks)
+20 (15) Tame Impala - It Might Be Time (10 wks)
+
+26/1/2020
+
+(*) The 1975 - Me & You Together Song
