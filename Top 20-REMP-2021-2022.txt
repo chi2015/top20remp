@@ -1817,7 +1817,7 @@
 19 (*) Rina Sawayama - Catch Me In The Air
 20 (20) Holly Humberstone - London Is Lonely (21 wks)
 
-17/07
+17/07/2022
 
 1 (1) Everything Everything - Pizza Boy (4 wks)
 2 (2) Dermot Kennedy - Something To Someone (10 wks)
@@ -1840,7 +1840,7 @@
 19 (*) ARXX - Couldn't Help Myself
 20 (18) Will Joseph Cook - Kisses (14 wks)
 
-24/07
+24/07/2022
 
 1 (1) Everything Everything - Pizza Boy (5 wks)
 2 (2) Dermot Kennedy - Something To Someone (11 wks)
@@ -1863,7 +1863,53 @@
 19 (15) Everything Everything - Teletype (14 wks)
 20 (18) Sam Fender - Getting Started (7 wks)
 
-31/07
+31/07/2022
 
-(*) P!nk - Irrelevant
-(*) Bastille - Remind Me
+1 (1) Everything Everything - Pizza Boy (6 wks)
+2 (4) Rina Sawayama - Catch Me In The Air (4 wks)
+3 (5) Florence & The Machine - Daffodil (2 wks)
+4 (2) Dermot Kennedy - Something To Someone (12 wks)
+5 (7) Editors - Karma Climb (5 wks)
+6 (6) Beabadoobee - See You Soon (9 wks)
+7 (3) Cavetown feat. Orla Gartland - Fell In Love With A Girl (7 wks)
+8 (9) Holly Humberstone - Sleep Tight (13 wks)
+9 (15) Pixey - Recycled Paper Planes (2 wks)
+10 (11) The Kooks - Cold Heart (5 wks)
+11 (*) P!nk - Irrelevant
+12 (14) ARXX - Couldn't Help Myself (3 wks)
+13 (12) Two Door Cinema Club - Wonderful Life (6 wks)
+14 (13) Wet Leg - Chaise Longue (5 wks)
+15 (*) Bastille - Remind Me
+16 (17) The 1975 - Part Of The Band (3 wks)
+17 (8) Bastille - Stay Awake (10 wks)
+18 (10) Alfie Templeman - Colour Me Blue (7 wks)
+19 (18) Wet Leg - Angelica (14 wks)
+20 (20) Sam Fender - Getting Started (8 wks)
+
+7/08/2022
+
+1 (1) Everything Everything - Pizza Boy (7 wks)
+2 (2) Rina Sawayama - Catch Me In The Air (5 wks)
+3 (3) Florence & The Machine - Daffodil (3 wks)
+4 (4) Dermot Kennedy - Something To Someone (13 wks)
+5 (5) Editors - Karma Climb (6 wks)
+6 (9) Pixey - Recycled Paper Planes (3 wks)
+7 (11) P!nk - Irrelevant (2 wks)
+8 (10) The Kooks - Cold Heart (6 wks)
+9 (12) ARXX - Couldn't Help Myself (4 wks)
+10 (15) Bastille - Remind Me (2 wks)
+11 (7) Cavetown feat. Orla Gartland - Fell In Love With A Girl (8 wks)
+12 (6) Beabadoobee - See You Soon (10 wks)
+13 (16) The 1975 - Part Of The Band (4 wks)
+14 (8) Holly Humberstone - Sleep Tight (14 wks)
+15 (13) Two Door Cinema Club - Wonderful Life (7 wks)
+16 (14) Wet Leg - Chaise Longue (6 wks)
+17 (18) Alfie Templeman - Colour Me Blue (8 wks)
+18 (*) Beebadoobee - 10:36
+19 (20) Sam Fender - Getting Started (9 wks)
+20 (19) Wet Leg - Angelica (15 wks)
+
+14/08/2022
+
+(*) Sam Fender - Alright
+
