@@ -17,7 +17,7 @@
 14 (13) Wet Leg - Ur Mum (12 wks)
 15 (9) Girl In Red - October Passed Me By (10 wks)
 16 (20) Lewis Capaldi - Forget Me (16 wks)
-17 (18) Beebadoobee - The Perfect Pair (13 wks)
+17 (18) Beabadoobee - The Perfect Pair (13 wks)
 18 (15) Editors - Vibe (17 wks)
 19 (17) Alfie Templeman - Galaxy (11 wks)
 20 (19) Bastille - Hope For The Future (14 wks)
@@ -41,7 +41,7 @@
 15 (10) The Kooks - Oasis (19 wks)
 16 (15) Girl In Red - October Passed Me By (11 wks)
 17 (14) Wet Leg - Ur Mum (13 wks)
-18 (17) Beebadoobee - The Perfect Pair (14 wks)
+18 (17) Beabadoobee - The Perfect Pair (14 wks)
 19 (19) Alfie Templeman - Galaxy (12 wks)
 20 (20) Bastille - Hope For The Future (15 wks)
 
@@ -60,7 +60,7 @@
 11 (8) Circa Waves - Carry You Home (6 wks)
 12 (14) Lewis Capaldi - Forget Me (18 wks)
 13 (11) Holly Humberstone - Can You Afford To Lose Me? (11 wks)
-14 (18) Beebadoobee - The Perfect Pair (15 wks)
+14 (18) Beabadoobee - The Perfect Pair (15 wks)
 15 (15) The Kooks - Oasis (20 wks)
 16 (19) Alfie Templeman - Galaxy (13 wks)
 17 (17) Wet Leg - Ur Mum (14 wks)
@@ -82,7 +82,7 @@
 10 (10) Sam Fender - Little Bull Of Blithe (3 wks)
 11 (12) Lewis Capaldi - Forget Me (19 wks)
 12 (13) Holly Humberstone - Can You Afford To Lose Me? (12 wks)
-13 (14) Beebadoobee - The Perfect Pair (16 wks)
+13 (14) Beabadoobee - The Perfect Pair (16 wks)
 14 (11) Circa Waves - Carry You Home (7 wks)
 15 (15) The Kooks - Oasis (21 wks)
 16 (*) Biig Piig - In The Dark
@@ -107,7 +107,7 @@
 12 (8) Bambie Thug - Kawasaki (I Love It) (9 wks)
 13 (14) Circa Waves - Carry You Home (8 wks)
 14 (12) Holly Humberstone - Can You Afford To Lose Me? (13 wks)
-15 (13) Beebadoobee - The Perfect Pair (17 wks)
+15 (13) Beabadoobee - The Perfect Pair (17 wks)
 16 (17) Alfie Templeman - Galaxy (15 wks)
 17 (18) Wet Leg - Ur Mum (18 wks)
 18 (*) Dermot Kennedy - Innocence And Sadness
@@ -133,7 +133,7 @@
 15 (13) Circa Waves - Carry You Home (9 wks)
 16 (14) Holly Humberstone - Can You Afford To Lose Me? (14 wks)
 17 (19) The 1975 - About You (3 wks)
-18 (15) Beebadoobee - The Perfect Pair (18 wks)
+18 (15) Beabadoobee - The Perfect Pair (18 wks)
 19 (16) Alfie Templeman - Galaxy (16 wks)
 20 (17) Wet Leg - Ur Mum (19 wks)
 
@@ -157,7 +157,7 @@
 16 (17) The 1975 - About You (4 wks)
 17 (13) Dylan - Nothing Lasts Forever (9 wks)
 18 (*) Circa Waves - Living On The Grey
-19 (18) Beebadoobee - The Perfect Pair (19 wks)
+19 (18) Beabadoobee - The Perfect Pair (19 wks)
 20 (16) Holly Humberstone - Can You Afford To Lose Me? (15 wks)
 
 26/02/2023
@@ -179,7 +179,7 @@
 15 (16) The 1975 - About You (5 wks)
 16 (18) Circa Waves - Living On The Grey (2 wks)
 17 (14) Sam Fender - Little Bull Of Blithe (7 wks)
-18 (*) Beebadoobee - Glue Song
+18 (*) Beabadoobee - Glue Song
 19 (15) Circa Waves - Carry You Home (11 wks)
 20 (*) Rachel Chinouriri - Maybe I'm Lonely
 
@@ -197,7 +197,7 @@
 10 (11) Dermot Kennedy - Innocence And Sadness (5 wks)
 11 (10) Lewis Capaldi - Forget Me (24 wks)
 12 (13) Bambie Thug - Tsunami (11:11) (4 wks)
-13 (18) Beebadoobee - Glue Song (2 wks)
+13 (18) Beabadoobee - Glue Song (2 wks)
 14 (16) Circa Waves - Living On The Grey (3 wks)
 15 (20) Rachel Chinouriri - Maybe I'm Lonely (2 wks)
 16 (15) The 1975 - About You (6 wks)
@@ -215,7 +215,7 @@
 5 (4) Rachel Chinouriri - I'm Not Perfect (But I'm Trying) (12 wks)
 6 (6) Sam Fender - Wild Grey Ocean (18 wks)
 7 (10) Dermot Kennedy - Innocence And Sadness (6 wks)
-8 (13) Beebadoobee - Glue Song (3 wks)
+8 (13) Beabadoobee - Glue Song (3 wks)
 9 (7) The 1975 - Oh Caroline (16 wks)
 10 (11) Lewis Capaldi - Forget Me (25 wks)
 11 (15) Rachel Chinouriri - Maybe I'm Lonely (3 wks)
@@ -235,7 +235,7 @@
 1 (1) Dylan - Girl Of Your Dreams (4 wks)
 2 (3) Gabriels - One And Only (4 wks)
 3 (2) Paramore - Running Out Of Time (5 wks)
-4 (8) Beebadoobee - Glue Song (4 wks)
+4 (8) Beabadoobee - Glue Song (4 wks)
 5 (4) Biig Piig - In The Dark (8 wks)
 6 (7) Dermot Kennedy - Innocence And Sadness (7 wks)
 7 (5) Rachel Chinouriri - I'm Not Perfect (But I'm Trying) (13 wks)
