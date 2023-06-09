@@ -431,7 +431,7 @@
 12 (12) Rachel Chinouriri - Maybe I'm Lonely (12 wks)
 13 (19) Rachel Chinouriri - Ribs (2 wks)
 14 (11) Lewis Capaldi - How I'm Feeling Now (8 wks)
-15 (*) Bring Me the Horizon - LosT
+15 (*) Bring Me The Horizon - LosT
 16 (13) The 1975 - Oh Caroline (25 wks)
 17 (15) Paramore - Running Out Of Time (13 wks)
 18 (16) Biig Piig - In The Dark (16 wks)
@@ -449,7 +449,7 @@
 7 (5) Nothing But Thieves - Welcome To The DCC (9 wks)
 8 (10) Wet Leg - Being In Love (3 wks)
 9 (9) Beabadoobee - Glue Song (12 wks)
-10 (15) Bring Me the Horizon - LosT (2 wks)
+10 (15) Bring Me The Horizon - LosT (2 wks)
 11 (8) Dylan - Girl Of Your Dreams (13 wks)
 12 (13) Rachel Chinouriri - Ribs (3 wks)
 13 (11) Gabriels - One And Only (13 wks)
@@ -465,7 +465,7 @@
 
 1 (2) David Kushner - Daylight (5 wks)
 2 (1) Freya Ridings - Can I Jump? (9 wks)
-3 (10) Bring Me the Horizon - LosT (3 wks)
+3 (10) Bring Me The Horizon - LosT (3 wks)
 4 (5) Echosmith - Hindsight (11 wks)
 5 (6) Tom Speight - If This Is How The Story Ends (5 wks)
 6 (3) Fall Out Boy - Hold Me Like A Grudge (9 wks)
@@ -486,7 +486,7 @@
 
 4/06/2023
 
-1 (3) Bring Me the Horizon - LosT (4 wks)
+1 (3) Bring Me The Horizon - LosT (4 wks)
 2 (1) David Kushner - Daylight (6 wks)
 3 (2) Freya Ridings - Can I Jump? (10 wks)
 4 (*) Freya Ridings - I Feel Love
@@ -509,4 +509,26 @@
 
 11/06/2023
 
-(*) Gabriels - Glory
+1 (1) Bring Me The Horizon - LosT (5 wks)
+2 (2) David Kushner - Daylight (7 wks)
+3 (4) Freya Ridings - I Feel Love (2 wks)
+4 (8) 30 Seconds To Mars - Stuck (4 wks)
+5 (3) Freya Ridings - Can I Jump? (11 wks)
+6 (5) Tom Speight - If This Is How The Story Ends (7 wks)
+7 (11) Nothing But Thieves - Overcome (3 wks)
+8 (6) Wet Leg - Being In Love (6 wks)
+9 (9) Fall Out Boy - Hold Me Like A Grudge (11 wks)
+10 (12) Swim School - Don't Leave Behind (5 wks)
+11 (10) Dylan - Every Heart But Mine (7 wks)
+12 (7) Echosmith - Hindsight (13 wks)
+13 (13) Beabadoobee - Glue Song (15 wks)
+14 (15) Nothing But Thieves - Welcome To The DCC (12 wks)
+15 (19) Brooke Combe - Are You With Me? (2 wks)
+16 (14) Lewis Capaldi - Wish You The Best (3 wks)
+17 (*) Gabriels - Glory
+18 (17) Dylan - Girl Of Your Dreams (16 wks)
+19 (20) Rachel Chinouriri - Ribs (6 wks)
+20 (16) The 1975 - Oh Caroline (29 wks)
+
+18/06/2023
+
