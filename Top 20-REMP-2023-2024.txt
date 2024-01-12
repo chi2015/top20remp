@@ -1162,7 +1162,7 @@
 6 (12) Another Sky - Aimee Cought A Moth (3 wks)
 7 (11) The Last Dinner Party - Nothing Matters (2 wks)
 8 (6) Dylan - Rebel Child (11 wks)
-9 (10)  Rachel Chinouriri - The Hills (5 wks)
+9 (10) Rachel Chinouriri - The Hills (5 wks)
 10 (13) CMAT - Stay For Something (2 wks)
 11 (*) Bea And Her Business - Never Ever Love A Liar
 12 (8) Dermot Kennedy - Sunday (9 wks)
@@ -1177,4 +1177,50 @@
 
 07/01/2024
 
-(*) Bombay Bicycle Club - Meditate
+1 (2) Everything Everything - Cold Reactor (9 wks)
+2 (1) Holly Humberstone - Into My Room (8 wks)
+3 (7) The Last Dinner Party - Nothing Matters (3 wks)
+4 (4) Humble The Great - Pink Dress (6 wks)
+5 (11) Bea And Her Business - Never Ever Love A Liar (2 wks)
+6 (6) Another Sky - Aimee Cought A Moth (4 wks)
+7 (10) CMAT - Stay For Something (3 wks)
+8 (3) Bea And Her Business - All The Boys (12 wks)
+9 (5) Etta Marcus - Little Wing (7 wks)
+10 (8) Dylan - Rebel Child (12 wks)
+11 (12) Dermot Kennedy - Sunday (10 wks)
+12 (13) Dylan feat. Bastille - Liar Liar (21 wks)
+13 (9) Rachel Chinouriri - The Hills (6 wks)
+14 (14) Etta Marcus - Theatre (16 wks)
+15 (16) Baby Queen - Obvious (7 wks)
+16 (20) Bob Junior & Alfie Templeman - No One Does It Better Than You (2 wks)
+17 (15) Beabadoobee - The Way Things Go (23 wks)
+18 (*) Bombay Bicycle Club - Meditate
+19 (19) Bombay Bicycle Club - Turn The World On (10 wks)
+20 (17) Nothing But Thieves - Overcome (32 wks)
+
+14/01/2024
+
+1 (1) Everything Everything - Cold Reactor (10 wks)
+2 (5) Bea And Her Business - Never Ever Love A Liar (3 wks)
+3 (3) The Last Dinner Party - Nothing Matters (4 wks)
+4 (7) CMAT - Stay For Something (4 wks)
+5 (6) Another Sky - Aimee Cought A Moth (5 wks)
+6 (2) Holly Humberstone - Into My Room (9 wks)
+7 (*) Everything Everything - The Mad Stone
+8 (4) Humble The Great - Pink Dress (7 wks)
+9 (8) Bea And Her Business - All The Boys (13 wks)
+10 (9) Etta Marcus - Little Wing (8 wks)
+11 (10) Dylan - Rebel Child (13 wks)
+12 (11) Dermot Kennedy - Sunday (11 wks)
+13 (12) Dylan feat. Bastille - Liar Liar (22 wks)
+14 (16) Bob Junior & Alfie Templeman - No One Does It Better Than You (3 wks)
+15 (13) Rachel Chinouriri - The Hills (7 wks)
+16 (15) Baby Queen - Obvious (8 wks)
+17 (*) Alice Merton - Run Away Girl
+18 (14) Etta Marcus - Theatre (17 wks)
+19 (*) Lewis Capaldi - Strangers
+20 (18) Bombay Bicycle Club - Meditate (2 wks)
+
+21/01/2024
+
+(*) Holly Humberstone - Paint My Bedroom Black
